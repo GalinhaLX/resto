@@ -32,19 +32,19 @@
 		},
 		{
 			"produit": "Terrine",
-			"categorie": "Plats",
+			"categorie": "Plat",
 			"prix": "7",
 			"disponible_en_formule": false
 		},
 		{
 			"produit": "Entrecote de boeuf",
-			"categorie": "Plats",
+			"categorie": "Plat",
 			"prix": "15",
 			"disponible_en_formule": false
 		},
 		{
 			"produit": "Joli poisson",
-			"categorie": "Plats",
+			"categorie": "Plat",
 			"prix": "12",
 			"disponible_en_formule": false,
 			"supplement_formule": "4"
