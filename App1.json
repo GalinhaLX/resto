@@ -20,7 +20,7 @@
 	"produits": [
 		{
 			"produit": "Terrine",
-			"categorie": "Entrées",
+			"categorie": "Plats",
 			"prix": "7",
 			"disponible_en_formule": false
 		},
