@@ -35,6 +35,11 @@
 			"produit": "Poisson dorade",
 			"categorie": "Entrée",
 			"disponible_en_formule": false
+		},
+		{
+			"produit": "Mousse au chocolat",
+			"categorie": "Entrée",
+			"disponible_en_formule": false
 		}
 	]
 }
