@@ -25,15 +25,15 @@
 			"disponible_en_formule": false
 		},
 		{
-			"produit": "Terrine",
-			"categorie": "Plats",
-			"prix": "7",
-			"disponible_en_formule": false
-		},
-		{
 			"produit": "Soupe",
 			"categorie": "Entrées",
 			"prix": "3",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Terrine",
+			"categorie": "Plats",
+			"prix": "7",
 			"disponible_en_formule": false
 		},
 		{
