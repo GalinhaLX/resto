@@ -15,6 +15,7 @@
 	],
 	"produits": [
 		{
+			"produit": "Terrine",
 			"categorie": "Entrée",
 			"disponible_en_formule": false
 		}
