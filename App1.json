@@ -19,15 +19,15 @@
 	],
 	"produits": [
 		{
-			"produit": "Terrine",
-			"categorie": "Plats",
-			"prix": "7",
-			"disponible_en_formule": false
-		},
-		{
 			"produit": "Salade entrée",
 			"categorie": "Entrées",
 			"prix": "4",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Terrine",
+			"categorie": "Plats",
+			"prix": "7",
 			"disponible_en_formule": false
 		},
 		{
