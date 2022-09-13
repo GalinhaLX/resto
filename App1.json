@@ -17,6 +17,12 @@
 		{
 			"produit": "Terrine",
 			"categorie": "Entrée",
+			"prix": "7",
+			"disponible_en_formule": true
+		},
+		{
+			"produit": "Soupe",
+			"categorie": "Entrée",
 			"disponible_en_formule": false
 		}
 	]
