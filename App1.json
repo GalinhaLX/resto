@@ -23,6 +23,12 @@
 		{
 			"produit": "Soupe",
 			"categorie": "Entrée",
+			"prix": "3",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Steack",
+			"categorie": "Plat",
 			"disponible_en_formule": false
 		}
 	]
