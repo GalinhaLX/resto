@@ -20,7 +20,7 @@
 	"produits": [
 		{
 			"produit": "Salade entrée",
-			"categorie": "Entrées",
+			"categorie": "Entrée",
 			"prix": "4",
 			"disponible_en_formule": false
 		},
