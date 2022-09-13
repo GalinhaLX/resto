@@ -6,8 +6,7 @@
 	],
 	"produits": [
 		{
-			"disponible_en_formule": false,
-			"categorie": "Entrées"
+			"disponible_en_formule": false
 		}
 	]
 }
