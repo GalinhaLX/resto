@@ -5,7 +5,11 @@
 			"nom": "Entrée"
 		},
 		{
-			"nom": "plat",
+			"nom": "Plat",
+			"active": false
+		},
+		{
+			"nom": "Dessert",
 			"active": false
 		}
 	],
