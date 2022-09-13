@@ -4,12 +4,12 @@
 			"nom": "Entrées",
 			"prix": "3",
 			"picked": false,
-			"active": false
+			"active": true
 		},
 		{
 			"nom": "Plats",
 			"picked": false,
-			"active": false
+			"active": true
 		},
 		{
 			"nom": "Dessert",
