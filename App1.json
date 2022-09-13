@@ -53,13 +53,6 @@
 			"categorie": "Dessert",
 			"prix": "6",
 			"disponible_en_formule": false
-		},
-		{
-			"produit": "Côte de boeuf",
-			"categorie": "Plats",
-			"prix": "19",
-			"supplement_formule": "3",
-			"disponible_en_formule": false
 		}
 	],
 	"formules": [
