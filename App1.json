@@ -46,7 +46,8 @@
 			"produit": "Joli poisson",
 			"categorie": "Plats",
 			"prix": "12",
-			"disponible_en_formule": false
+			"disponible_en_formule": false,
+			"supplement_formule": "4"
 		},
 		{
 			"produit": "Mousse au chocolat",
