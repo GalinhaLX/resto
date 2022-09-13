@@ -30,6 +30,10 @@
 			"produit": "Steack",
 			"categorie": "Plat",
 			"disponible_en_formule": false
+		},
+		{
+			"categorie": "Entrée",
+			"disponible_en_formule": false
 		}
 	]
 }
