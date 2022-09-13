@@ -1,0 +1,70 @@
+{
+	"categorie": [
+		{
+			"nom": "Entrées",
+			"prix": "3",
+			"picked": false,
+			"active": false
+		},
+		{
+			"nom": "Plats",
+			"picked": false,
+			"active": false
+		},
+		{
+			"nom": "Dessert",
+			"picked": false,
+			"active": false
+		}
+	],
+	"produits": [
+		{
+			"produit": "Terrine",
+			"categorie": "Entrées",
+			"prix": "7",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Salade entrée",
+			"categorie": "Entrées",
+			"prix": "4",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Soupe",
+			"categorie": "Entrées",
+			"prix": "3",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Entrecote de boeuf",
+			"categorie": "Plats",
+			"prix": "15",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Joli poisson",
+			"categorie": "Plats",
+			"prix": "12",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Mousse au chocolat",
+			"categorie": "Dessert",
+			"prix": "6",
+			"disponible_en_formule": false
+		},
+		{
+			"produit": "Côte de boeuf",
+			"categorie": "Entrées",
+			"prix": "19",
+			"supplement_formule": "3",
+			"disponible_en_formule": false
+		}
+	],
+	"formules": [
+		{
+			"categorie": "Entrées"
+		}
+	]
+}
