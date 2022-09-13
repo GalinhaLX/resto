@@ -1,6 +1,11 @@
 {
 	"categorie": [
 		{
+			"active": false,
+			"nom": "Entrée"
+		},
+		{
+			"nom": "plat",
 			"active": false
 		}
 	],
